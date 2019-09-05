@@ -1,0 +1,2 @@
+include ':app', ':api', ':common', ':resources', ':text-formats', ':util', ':zip-amse', ':ambilwarna', ':android-filechooser', ':drag-sort-listview', ':supertoasts'
+rootProject.name='FBReader'
